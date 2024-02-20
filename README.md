@@ -2,6 +2,8 @@
 Repositório do desafio da trilha de backend do AsCan - Programa de Estagiários do Instituto Atlântico.
 O desafio consiste em desenvolver uma API para um sistema de controle de assinatura para uma empresa de streaming.
 
+Para ler os comentários e o 'diário' de desenvolvimento, <a href="https://github.com/MardesonHerculano/ascan_backend/blob/develop/COMMENTS.md">Clique aqui</a>
+
 ## Instação
 Para rodar a aplicação, você precisa instalar o <a href="https://www.docker.com/" target="_blank">Docker</a> 
 Para rodar, use o comando:
